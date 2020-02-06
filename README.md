@@ -7,3 +7,7 @@ Example file (from `Germany/VBB/Regionalverkehr/data.json`):
       "valid_from": "2019-12-15",
       "publisher": "Verkehrsverbund Berlin-Brandenburg"
     }
+
+## License
+
+All data in this repository is released into the Public Domain.

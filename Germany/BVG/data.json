@@ -1,0 +1,30 @@
+{
+  "publisher": "Berliner Verkehrsbetriebe",
+  "plans": [
+    {
+      "name": "Busliniennetz",
+      "file": "https://www.bvg.de/de/index.php?section=downloads&cmd=58&download=3449",
+      "valid_from": "2019-12-15"
+    },
+    {
+      "name": "Nachtnetz",
+      "file": "https://www.bvg.de/de/index.php?section=downloads&cmd=58&download=398",
+      "valid_from": "2019-08-04"
+    },
+    {
+      "name": "Straßenbahnnetz",
+      "file": "https://www.bvg.de/de/index.php?section=downloads&cmd=58&download=401",
+      "valid_from": "2019-12-15"
+    },
+    {
+      "name": "S+U",
+      "file": "https://www.bvg.de/de/index.php?section=downloads&cmd=58&download=399",
+      "valid_from": "2019-12-15"
+    },
+    {
+      "name": "S+U-Innenstadt",
+      "file": "https://www.bvg.de/de/index.php?section=downloads&cmd=58&download=400",
+      "valid_from": "2019-12-15"
+    }
+  ]
+}

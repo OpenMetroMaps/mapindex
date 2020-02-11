@@ -1,0 +1,15 @@
+{
+  "publisher": "DB Fernverkehr AG",
+  "plans": [
+    {
+      "name": "ICE",
+      "file": "https://www.bahn.de/p/view/mdb/bahnintern/fahrplan_und_buchung/streckenplaene/mdb_301735_11080_ice_de_2020.pdf",
+      "valid_from": "2019-12"
+    },
+    {
+      "name": "IC_EC",
+      "file": "https://www.bahn.de/p/view/mdb/bahnintern/fahrplan_und_buchung/streckenplaene/mdb_301736_11080_icec_de_2020.pdf",
+      "valid_from": "2019-12"
+    }
+  ]
+}

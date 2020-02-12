@@ -4,152 +4,174 @@
     {
       "name": "Altenburger Land und südlicher Landkreis Leipzig",
       "file": "https://www.mdv.de/site/uploads/lnp_altenburgerland.pdf",
-      "valid_from": ""
+      "valid_from": "2019-12-15"
     },
     {
       "name": "Burgenlandkreis",
       "file": "https://www.mdv.de/site/uploads/lnp_burgenlandkreis.pdf",
-      "valid_from": ""
+      "valid_from": "2019-08-15"
     },
     {
       "name": "Landkreis Leipzig",
       "file": "https://www.mdv.de/site/uploads/lnp_lk-leipzig.pdf",
-      "valid_from": ""
+      "valid_from": "2019-12-15"
     },
     {
       "name": "Landkreis Nordsachsen - Region Torgau-Oschatz",
       "file": "https://www.mdv.de/site/uploads/lnp_torgau_oschatz.pdf",
-      "valid_from": ""
+      "valid_from": "2019-08-19"
     },
     {
       "name": "Landkreis Nordsachsen – Region Delitzsch",
       "file": "https://www.mdv.de/site/uploads/lnp_delitzsch.pdf",
-      "valid_from": ""
+      "valid_from": "2019-08-19"
     },
     {
       "name": "Saalekreis",
       "file": "https://www.mdv.de/site/uploads/lnp_saalekreis.pdf",
-      "valid_from": ""
+      "valid_from": "2019-08-15"
     },
     {
       "name": "Altenburg",
+      "publisher": "digitale Kartografie Frank Ruppenthal GmbH",
       "file": "https://www.mdv.de/site/uploads/sv_altenburg.pdf",
-      "valid_from": ""
+      "valid_from": "2017"
     },
     {
       "name": "Bad Düben",
+      "publisher": "digitale Kartografie Frank Ruppenthal GmbH",
       "file": "https://www.mdv.de/site/uploads/sv_baddueben.pdf",
-      "valid_from": ""
+      "valid_from": "2016"
     },
     {
       "name": "Borna",
+      "publisher": "digitale Kartografie Frank Ruppenthal GmbH",
       "file": "https://www.mdv.de/site/uploads/sv_borna.pdf",
-      "valid_from": ""
+      "valid_from": "2013"
     },
     {
       "name": "Colditz",
+      "publisher": "digitale Kartografie Frank Ruppenthal GmbH",
       "file": "https://www.mdv.de/site/uploads/sv_colditz.pdf",
-      "valid_from": ""
+      "valid_from": "2010"
     },
     {
       "name": "Delitzsch",
+      "publisher": "digitale Kartografie Frank Ruppenthal GmbH",
       "file": "https://www.mdv.de/site/uploads/sv_delitzsch.pdf",
-      "valid_from": ""
+      "valid_from": "2017"
     },
     {
       "name": "Döbeln",
+      "publisher": "not-specified",
       "file": "https://www.mdv.de/site/uploads/sv_doebeln.pdf",
-      "valid_from": ""
+      "valid_from": "not-specified"
     },
     {
       "name": "Eilenburg",
+      "publisher": "digitale Kartografie Frank Ruppenthal GmbH",
       "file": "https://www.mdv.de/site/uploads/sv_eilenburg.pdf",
-      "valid_from": ""
+      "valid_from": "2018"
     },
     {
       "name": "Grimma",
+      "publisher": "digitale Kartografie Frank Ruppenthal GmbH",
       "file": "https://www.mdv.de/site/uploads/sv_grimma.pdf",
-      "valid_from": ""
+      "valid_from": "2014"
     },
     {
       "name": "Halle Linien Nacht",
+      "publisher": "SWH. HAVAG",
       "file": "https://www.mdv.de/site/uploads/sv_halle_nacht.pdf",
-      "valid_from": ""
+      "valid_from": "2019-10-14"
     },
     {
       "name": "Halle Linien Tag",
+      "publisher": "SWH. HAVAG",
       "file": "https://www.mdv.de/site/uploads/sv_halle_tag.pdf",
-      "valid_from": ""
+      "valid_from": "2019-10-14"
     },
     {
       "name": "Leipzig Linien Nacht",
+      "publisher": "Leipziger Verkehrsbetriebe",
       "file": "https://www.mdv.de/site/uploads/sv_leipzig_nacht.pdf",
-      "valid_from": ""
+      "valid_from": "2019-12-15"
     },
     {
       "name": "Leipzig Linien Tag",
+      "publisher": "Leipziger Verkehrsbetriebe",
       "file": "https://www.mdv.de/site/uploads/sv_leipzig_tag.pdf",
-      "valid_from": ""
+      "valid_from": "2019-12-15"
     },
     {
       "name": "Merseburg",
+      "publisher": "digitale Kartografie Frank Ruppenthal GmbH",
       "file": "https://www.mdv.de/site/uploads/sv_merseburg.pdf",
-      "valid_from": ""
+      "valid_from": "2018"
     },
     {
       "name": "Mücheln",
+      "publisher": "digitale Kartografie Frank Ruppenthal GmbH",
       "file": "https://www.mdv.de/site/uploads/sv_muecheln.pdf",
-      "valid_from": ""
+      "valid_from": "2016"
     },
     {
       "name": "Naumburg",
+      "publisher": "digitale Kartografie Frank Ruppenthal GmbH",
       "file": "https://www.mdv.de/site/uploads/sv_naumburg.pdf",
-      "valid_from": ""
+      "valid_from": "2017"
     },
     {
       "name": "Oschatz",
+      "publisher": "digitale Kartografie Frank Ruppenthal GmbH",
       "file": "https://www.mdv.de/site/uploads/sv_oschatz.pdf",
-      "valid_from": ""
+      "valid_from": "2017"
     },
     {
       "name": "Querfurt",
+      "publisher": "digitale Kartografie Frank Ruppenthal GmbH",
       "file": "https://www.mdv.de/site/uploads/sv_querfurt.pdf",
-      "valid_from": ""
+      "valid_from": "2016"
     },
     {
       "name": "Schmölln",
+      "publisher": "not-specified",
       "file": "https://www.mdv.de/site/uploads/sv_schmoelln.pdf",
-      "valid_from": ""
+      "valid_from": "not-specified"
     },
     {
       "name": "Torgau",
+      "publisher": "digitale Kartografie Frank Ruppenthal GmbH",
       "file": "https://www.mdv.de/site/uploads/sv_torgau.pdf",
-      "valid_from": ""
+      "valid_from": "2017"
     },
     {
       "name": "Weißenfels",
+      "publisher": "digitale Kartografie Frank Ruppenthal GmbH",
       "file": "https://www.mdv.de/site/uploads/sv_weissenfels.pdf",
-      "valid_from": ""
+      "valid_from": "2017"
     },
     {
       "name": "Wurzen",
+      "publisher": "digitale Kartografie Frank Ruppenthal GmbH",
       "file": "https://www.mdv.de/site/uploads/sv_wurzen.pdf",
-      "valid_from": ""
+      "valid_from": "2016"
     },
     {
       "name": "Zeitz",
+      "publisher": "digitale Kartografie Frank Ruppenthal GmbH",
       "file": "https://www.mdv.de/site/uploads/sv_zeitz.pdf",
-      "valid_from": ""
+      "valid_from": "2018"
     },
     {
       "name": "Alle Strecken im MDV",
       "file": "https://www.mdv.de/site/uploads/lnp_mdv_gesamt.pdf",
-      "valid_from": ""
+      "valid_from": "2017"
     },
     {
       "name": "PlusBus und S-Bahn-Netz",
       "file": "https://www.mdv.de/site/uploads/lnp_plusbus.pdf",
-      "valid_from": ""
+      "valid_from": "2019-12-15"
     }
   ]
 }

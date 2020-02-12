@@ -1,0 +1,35 @@
+{
+  "publisher": "Wiener Linien",
+  "plans": [
+    {
+      "name": "Schnellverbindungen",
+      "file": "https://www.wienerlinien.at/eportal3/ep/downloadTracker.do/path/media/files/2019/svp_300910.pdf?oid=67668&type=pdf",
+      "valid_from": "2019-01",
+      "description": "U-Bahnen, S-Bahnen, Wiener Lokalbahn, City Airport Train"
+    },
+    {
+      "name": "Gesamtnetzplan Wien",
+      "file": "https://www.wienerlinien.at/eportal3/ep/downloadTracker.do/path/media/files/2019/gesamtnetzplan%20tag_330074.pdf?oid=82853&type=pdf",
+      "valid_from": "2019-12",
+      "description": "U-Bahn, Straßenbahn, Autobus, Eisenbahn-Linien, S-Bahnen, Badner Bahn (Wiener Lokalbahn), Endhaltestelle von Regionalbuslinie(n)"
+    },
+    {
+      "name": "City-Plan",
+      "file": "https://www.wienerlinien.at/eportal3/ep/downloadTracker.do/path/media/files/2017/city-plan_220937.pdf?oid=67666&type=pdf",
+      "valid_from": "2017-09",
+      "description": "U-Bahn-, Bus- und Straßenbahn-Verbindungen in der Wiener Innenstadt"
+    },
+    {
+      "name": "Nightline am Wochenende",
+      "file": "https://www.wienerlinien.at/eportal3/ep/downloadTracker.do/path/media/files/2019/nightline_wochenende_298330.pdf?oid=67665&type=pdf",
+      "valid_from": "2019-02",
+      "description": "U-Bahnen, Nachtbuslinien und ASTAX in Nächten, auf die ein Samstag, Sonntag oder Feiertag folgt. Nicht alle Bushaltestellen sind dargestellt."
+    },
+    {
+      "name": "Nightline an Werktagen",
+      "file": "https://www.wienerlinien.at/eportal3/ep/downloadTracker.do/path/media/files/2017/nightline_werktag_220632.pdf?oid=67664&type=pdf",
+      "valid_from": "2017-09",
+      "description": "U-Bahnen, Nachtbuslinien und ASTAX in Nächten, auf die ein Werktag folgt. Nicht alle Bushaltestellen sind dargestellt."
+    }
+  ]
+}

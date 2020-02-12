@@ -1,0 +1,156 @@
+{
+  "publisher": "Mitteldeutscher Verkehrsverbund",
+  "plans": [
+    {
+      "name": "Altenburger Land und südlicher Landkreis Leipzig",
+      "file": "https://www.mdv.de/site/uploads/lnp_altenburgerland.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Burgenlandkreis",
+      "file": "https://www.mdv.de/site/uploads/lnp_burgenlandkreis.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Landkreis Leipzig",
+      "file": "https://www.mdv.de/site/uploads/lnp_lk-leipzig.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Landkreis Nordsachsen - Region Torgau-Oschatz",
+      "file": "https://www.mdv.de/site/uploads/lnp_torgau_oschatz.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Landkreis Nordsachsen – Region Delitzsch",
+      "file": "https://www.mdv.de/site/uploads/lnp_delitzsch.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Saalekreis",
+      "file": "https://www.mdv.de/site/uploads/lnp_saalekreis.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Altenburg",
+      "file": "https://www.mdv.de/site/uploads/sv_altenburg.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Bad Düben",
+      "file": "https://www.mdv.de/site/uploads/sv_baddueben.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Borna",
+      "file": "https://www.mdv.de/site/uploads/sv_borna.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Colditz",
+      "file": "https://www.mdv.de/site/uploads/sv_colditz.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Delitzsch",
+      "file": "https://www.mdv.de/site/uploads/sv_delitzsch.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Döbeln",
+      "file": "https://www.mdv.de/site/uploads/sv_doebeln.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Eilenburg",
+      "file": "https://www.mdv.de/site/uploads/sv_eilenburg.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Grimma",
+      "file": "https://www.mdv.de/site/uploads/sv_grimma.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Halle Linien Nacht",
+      "file": "https://www.mdv.de/site/uploads/sv_halle_nacht.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Halle Linien Tag",
+      "file": "https://www.mdv.de/site/uploads/sv_halle_tag.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Leipzig Linien Nacht",
+      "file": "https://www.mdv.de/site/uploads/sv_leipzig_nacht.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Leipzig Linien Tag",
+      "file": "https://www.mdv.de/site/uploads/sv_leipzig_tag.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Merseburg",
+      "file": "https://www.mdv.de/site/uploads/sv_merseburg.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Mücheln",
+      "file": "https://www.mdv.de/site/uploads/sv_muecheln.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Naumburg",
+      "file": "https://www.mdv.de/site/uploads/sv_naumburg.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Oschatz",
+      "file": "https://www.mdv.de/site/uploads/sv_oschatz.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Querfurt",
+      "file": "https://www.mdv.de/site/uploads/sv_querfurt.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Schmölln",
+      "file": "https://www.mdv.de/site/uploads/sv_schmoelln.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Torgau",
+      "file": "https://www.mdv.de/site/uploads/sv_torgau.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Weißenfels",
+      "file": "https://www.mdv.de/site/uploads/sv_weissenfels.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Wurzen",
+      "file": "https://www.mdv.de/site/uploads/sv_wurzen.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Zeitz",
+      "file": "https://www.mdv.de/site/uploads/sv_zeitz.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "Alle Strecken im MDV",
+      "file": "https://www.mdv.de/site/uploads/lnp_mdv_gesamt.pdf",
+      "valid_from": ""
+    },
+    {
+      "name": "PlusBus und S-Bahn-Netz",
+      "file": "https://www.mdv.de/site/uploads/lnp_plusbus.pdf",
+      "valid_from": ""
+    }
+  ]
+}
+

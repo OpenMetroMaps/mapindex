@@ -1,0 +1,20 @@
+{
+  "publisher": "Rheinbahn",
+  "plans": [
+    {
+      "name": "Netzplan Düsseldorf",
+      "file": "https://www.rheinbahn.de/fahrplan/Liniennetzplne/D%C3%BCsseldorf.pdf",
+      "valid_from": "2020-01-07"
+    },
+    {
+      "name": "Schnellnetz Düsseldorf",
+      "file": "https://www.rheinbahn.de/fahrplan/Liniennetzplne/D%C3%BCsseldorf_Schnellnetz.pdf",
+      "valid_from": "2019-06-09"
+    },
+    {
+      "name": "Netzplan Düsseldorf Bus",
+      "file": "https://www.rheinbahn.de/fahrplan/Liniennetzplne/D%C3%BCsseldorf_Busnetz.pdf",
+      "valid_from": "2020-01-07"
+    }
+  ]
+}

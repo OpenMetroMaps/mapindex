@@ -1,0 +1,15 @@
+{
+  "publisher": "HVB",
+  "plans": [
+    {
+      "name": "Landkreis Harz",
+      "file": "http://pdf.hvb-harz.de/downloads/Liniennetzplan_Landkreis_Harz_18_19_schematisch.pdf",
+      "valid_from": "2019-12-15"
+    },
+    {
+      "name": "Tarifzonenplan",
+      "file": "http://pdf.hvb-harz.de/downloads/VTO-Tarifzonen.pdf",
+      "valid_from": "not-specified"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "publisher": "HATIX",
+  "plans": [
+    {
+      "name": "Busnetz HATIX",
+      "file": "https://www.hatix.info/images/uebersicht/HATIX_Liniennetzplan_A3_01-20_rz.pdf",
+      "valid_from": "2019-12-20"
+    }
+  ]
+}

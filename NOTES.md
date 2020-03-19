@@ -7,7 +7,7 @@
     * möglichst niedrigschwellig
     * was wird benötigt?
       * Textfeld, Submit-Button
-      * Hinweis, dass Daten verarbeited werden und wir
+      * Hinweis, dass Daten verarbeitet werden und wir
         davon ausgehen, dass keine Rechte an den eingegebenen
         Daten geltend gemacht werden
       * Response: "Vielen Dank!"
